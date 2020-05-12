@@ -1,0 +1,538 @@
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\mscorlib.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\netstandard.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\nunit.framework.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.AppContext.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Collections.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Console.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Core.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Data.Common.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Data.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Drawing.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Globalization.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.Compression.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Linq.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Http.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Ping.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Requests.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Security.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Numerics.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ObjectModel.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Reflection.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Claims.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Principal.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Transactions.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ValueTuple.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Web.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Windows.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Locator.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Timeline.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEditor.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Cecil.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.DataContract.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEditor.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Timeline.pdb
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\Temp\bin\Debug\nunit.framework.xml
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.dll
+D:\Backup\École\moi\prog 3\Nouveau dossier\CASM1635479_synthese_prog3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.pdb
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\mscorlib.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\netstandard.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\nunit.framework.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.AppContext.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Collections.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Console.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Core.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Data.Common.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Data.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Drawing.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Globalization.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.Compression.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Linq.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Http.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Ping.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Requests.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Security.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Numerics.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ObjectModel.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Reflection.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Claims.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.Principal.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Transactions.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.ValueTuple.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Web.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Windows.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Locator.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Timeline.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEditor.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Cecil.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.DataContract.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEditor.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Timeline.pdb
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\Temp\bin\Debug\nunit.framework.xml
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.dll
+D:\Backup\École\moi\prog 3\CASM1635479_synthese_prog3\obj\Debug\Assembly-CSharp.pdb
